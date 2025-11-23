@@ -2,7 +2,7 @@
 
 def solve():
 # Ниже пишите решение задачи
-a,b,c=input().split()
+    a,b,c=input().split()
 a1 = ord(a)
 b1 = ord(b)
 c1 = ord(c)
