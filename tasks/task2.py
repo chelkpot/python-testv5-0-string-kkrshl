@@ -2,8 +2,8 @@
 
 def solve():
 # Ниже пишите решение задачи
-    a=input()
-print(a[len(a)])
+    s=input()
+print(len(s))
 
 # Код ниже не трогать! он нужен для тестов
 if __name__ == "__main__":
