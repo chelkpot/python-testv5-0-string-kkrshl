@@ -3,7 +3,7 @@
 def solve():
 # Ниже пишите решение задачи
     s=input()   
-print('s' * 3)
+    print('s' * 3)
     
 
 
